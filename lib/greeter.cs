@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public string msg = "World";
 
+        //Parameterized Constructor
         public Class1(string name)
         {
             msg = name;
